@@ -22,7 +22,7 @@ pod 'MTRefresh'
 
 ## Author
 
-rstx_reg@aliyun.com, rstx_reg@aliyun.com
+secrimart@aliyun.com, rstx_reg@aliyun.com
 
 ## License
 

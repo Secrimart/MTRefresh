@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MTRefresh_Example' do
+  pod 'MTRefresh', :path => '../'
+
+  target 'MTRefresh_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
